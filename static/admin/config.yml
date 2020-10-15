@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo-name
+  repo: agtz92/netlifytry2
 
 media_folder: static/assets
 public_folder: /assets
